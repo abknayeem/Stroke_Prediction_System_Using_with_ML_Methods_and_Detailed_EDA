@@ -75,54 +75,54 @@ Further improvements, such as hyperparameter optimization, advanced sampling tec
 
 <h2 id="gallery">🖼️ Gallery</h2>
 
-<h3>Stroke Patient's Gender</h3>
+<h3>📌 Patient's Gender</h3>
 <img src="https://github.com/user-attachments/assets/e2dd69a6-b978-4d72-9968-940d039d82ef" width="600" height="400">
 
-<h3>Stroke Patient's Smoking Status</h3>
+<h3>📌 Patient's Smoking Status</h3>
 <img src="https://github.com/user-attachments/assets/5e49419a-adb7-424f-8947-437fb1df5f46" width="600" height="400">
 
-<h3>Stroke Patient's Marital Status</h3>
+<h3>📌 Patient's Marital Status</h3>
 <img src="https://github.com/user-attachments/assets/7caaa207-13dd-4e16-bf3a-4037b53a77f2" width="600" height="400">
 
-<h3>Stroke Patient's Heart Disease</h3>
+<h3>📌 Patient's Heart Disease</h3>
 <img src="https://github.com/user-attachments/assets/da1fb6d1-5cdc-4c3f-a614-7243c7fa7757" width="600" height="400">
 
-<h3>Stroke Patient's Hypertension Status</h3>
+<h3>📌 Patient's Hypertension Status</h3>
 <img src="https://github.com/user-attachments/assets/335f6441-5a99-4de7-b8db-10f2c1e7a676" width="600" height="400">
 
-<h3>Stroke Patient's Occupation Type</h3>
+<h3>📌 Patient's Occupation Type</h3>
 <img src="https://github.com/user-attachments/assets/10c84c86-01dc-481f-85b2-179f1ab1e0bf" width="600" height="400">
 
-<h3>Stroke Patient's Residence Type</h3>
+<h3>📌 Patient's Residence Type</h3>
 <img src="https://github.com/user-attachments/assets/0b31ec15-d135-4ade-84a7-4001b0594542" width="600" height="400">
 
-<h3>Stroke Patient's Age Distribution</h3>
+<h3>📌 Patient's Age Distribution</h3>
 <img src="https://github.com/user-attachments/assets/342265d7-68ee-4b11-8528-81afa74af587" width="600" height="400">
 
-<h3>Stroke Patient's BMI Distribution</h3>
+<h3>📌 Patient's BMI Distribution</h3>
 <img src="https://github.com/user-attachments/assets/5c716953-ca36-46c6-ac60-383651b3b132" width="600" height="400">
 
-<h3>Stroke Patient's Average Glucose Level Distribution</h3>
+<h3>📌 Patient's Average Glucose Level Distribution</h3>
 <img src="https://github.com/user-attachments/assets/c1f36807-0d7f-4298-a2e2-bc9be80d4ced" width="600" height="400">
 
-<h3>Patient's Correlation Of Features</h3>
+<h3>📌 Patient's Correlation Of Features</h3>
 <img src="https://github.com/user-attachments/assets/36793a9c-bbdb-43b3-aa7e-781a0a7097e9" width="600" height="400">
 
-<h3>Training and Testing Accuracy for Models</h3>
+<h3>🛠️ Training and Testing Accuracy for Models</h3>
 
-<h3>Performance Evaluation - Stroke Patients Analysis</h3>
+<h3>📌 Performance Evaluation - Stroke Patients Analysis</h3>
 <img src="https://github.com/user-attachments/assets/bf1473ac-671f-4b4c-ac7d-631902a9b431" width="600" height="400">
 
-<h3>Confusion Matrix on Applied Testing Models</h3>
+<h3>📌 Confusion Matrix on Applied Testing Models</h3>
 <img src="https://github.com/user-attachments/assets/204fe14d-6a48-4c3a-8508-815c67694db5" width="600" height="400">
 
-<h3>ROC - Curve on Applied Testing Models</h3>
+<h3>📌 ROC - Curve on Applied Testing Models</h3>
 <img src="https://github.com/user-attachments/assets/4bc86442-2615-4c4c-8b36-74c820d67fd6" width="600" height="400">
 
-<h3>Model Performance on Test Set</h3>
+<h3>📌 Model Performance on Test Set</h3>
 <img width="368" alt="image" src="https://github.com/user-attachments/assets/3b9c46b2-f2c6-458c-9797-7d401eb838d0" />
 
-<h3>Prediction Test</h3>
+<h3>📌 Prediction Test</h3>
 <img width="238" alt="image" src="https://github.com/user-attachments/assets/151465c1-453c-4bdb-af9c-75bf54e52338" />
 
 
