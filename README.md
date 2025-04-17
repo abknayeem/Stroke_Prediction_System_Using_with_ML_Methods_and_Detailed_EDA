@@ -106,7 +106,7 @@ Further improvements, such as hyperparameter optimization, advanced sampling tec
 <img src="https://github.com/user-attachments/assets/c1f36807-0d7f-4298-a2e2-bc9be80d4ced" width="600" height="400">
 
 <h3>Patient's Correlation Of Features</h3>
-<img src="https://github.com/user-attachments/assets/1bbef797-c3d2-4639-aec8-b0b02746694a" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/36793a9c-bbdb-43b3-aa7e-781a0a7097e9" width="600" height="400">
 
 <h3>Training and Testing Accuracy for Models</h3>
 
