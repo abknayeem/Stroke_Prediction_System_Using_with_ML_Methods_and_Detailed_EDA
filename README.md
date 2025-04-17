@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h1>Stroke Prediction System Using Machine Learning</h1>
+<h1>🧠 Stroke Prediction System Using Machine Learning</h1>
 
 <h2>Project Overview</h2>
 <p>
