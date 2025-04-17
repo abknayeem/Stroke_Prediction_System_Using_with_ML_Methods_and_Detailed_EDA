@@ -1,0 +1,2 @@
+# Stroke_Prediction_System_Using_with_ML_Methods_and_Detailed_EDA
+This project uses machine learning techniques and detailed exploratory data analysis (EDA) to predict the risk of stroke based on patient health data. It covers data preprocessing, feature analysis, model training, and evaluation across several algorithms like Logistic Regression, Random Forest, Support Vector Machine and  KNN Algorithm
