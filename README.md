@@ -6,13 +6,13 @@
 
 <h1>🧠 Stroke Prediction System Using Machine Learning</h1>
 
-<h2>Project Overview</h2>
+<h2>🎯 Project Overview</h2>
 <p>
 This project involves a comprehensive analysis and prediction of stroke occurrence based on healthcare data. The analysis uses various visualization techniques to understand patterns and build predictive machine learning models. 
 You can directly view and run this project <a href="https://colab.research.google.com/drive/1uEzRc0ESD-cID5b4oBdy6pRY8CGbTeMD?usp=sharing" target="_blank"><strong>here on Google Colab</strong></a>.
 </p>
 
-<h2>Table of Contents</h2>
+<h2>📄 Table of Contents</h2>
 <ul>
   <li><a href="#data-overview">Data Overview</a></li>
   <li><a href="#analysis-points">Analysis Points</a></li>
