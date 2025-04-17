@@ -123,7 +123,8 @@ Further improvements, such as hyperparameter optimization, advanced sampling tec
 <img width="368" alt="image" src="https://github.com/user-attachments/assets/3b9c46b2-f2c6-458c-9797-7d401eb838d0" />
 
 <h3>Prediction Test</h3>
-<img width="242" alt="image" src="https://github.com/user-attachments/assets/4a9514d1-7642-4af0-b1b9-132826d98340" />
+<img width="238" alt="image" src="https://github.com/user-attachments/assets/151465c1-453c-4bdb-af9c-75bf54e52338" />
+
 
 <br>
 
