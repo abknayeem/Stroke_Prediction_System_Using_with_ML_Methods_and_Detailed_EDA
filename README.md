@@ -17,9 +17,9 @@ You can directly view and run this project <a href="https://colab.research.googl
   <li><a href="#data-overview">Data Overview</a></li>
   <li><a href="#analysis-points">Analysis Points</a></li>
   <li><a href="#visualizations">Visualizations</a></li>
-  <li><a href="#conclusion">Conclusion</a></li>
-  <li><a href="#future-work">Future Work</a></li>
   <li><a href="#gallery">Gallery</a></li>
+  <li><a href="#future-work">Future Work</a></li>
+  <li><a href="#conclusion">Conclusion</a></li>
 </ul>
 
 <h2 id="data-overview">📊 Data Overview</h2>
@@ -55,23 +55,9 @@ You can directly view and run this project <a href="https://colab.research.googl
   <li>ROC-AUC Curves</li>
 </ul>
 
-<h2 id="conclusion">📋 Conclusion</h2>
 <p>
-This project provides crucial insights into the factors leading to stroke events, showing that variables like age, hypertension, heart disease, and average glucose level play critical roles. The machine learning models — including Logistic Regression, Decision Trees, Random Forest, and K-Nearest Neighbors — demonstrated good predictive capabilities, with ensemble methods offering improved robustness.
+Further improvements can enhance model performance, such as hyperparameter optimization, advanced sampling techniques (like SMOTE), and deeper feature engineering. This work highlights the potential of data-driven predictive analytics to assist in the early detection and prevention of strokes.
 </p>
-
-<p>
-Further improvements, such as hyperparameter optimization, advanced sampling techniques (like SMOTE), and deeper feature engineering, can enhance model performance. This work highlights the potential of data-driven predictive analytics to assist in the early detection and prevention of strokes.
-</p>
-
-<h2 id="future-work">🚀 Future Work</h2>
-<ul>
-  <li><strong>Hyperparameter Optimization:</strong> Fine-tune model settings for even better performance.</li>
-  <li><strong>SMOTE or Class Weight Adjustments:</strong> Handle class imbalance more effectively.</li>
-  <li><strong>Feature Engineering:</strong> Create additional features based on domain knowledge.</li>
-  <li><strong>Model Deployment:</strong> Build a web app for real-time stroke prediction (using Streamlit or Flask).</li>
-  <li><strong>Integration with Medical Data:</strong> Combine with other datasets like electronic health records for deeper insights.</li>
-</ul>
 
 <h2 id="gallery">🖼️ Gallery</h2>
 
@@ -125,6 +111,19 @@ Further improvements, such as hyperparameter optimization, advanced sampling tec
 <h3>📌 Prediction Test</h3>
 <img width="238" alt="image" src="https://github.com/user-attachments/assets/151465c1-453c-4bdb-af9c-75bf54e52338" />
 
+<h2 id="future-work">🚀 Future Work</h2>
+<ul>
+  <li><strong>Hyperparameter Optimization:</strong> Fine-tune model settings for even better performance.</li>
+  <li><strong>SMOTE or Class Weight Adjustments:</strong> Handle class imbalance more effectively.</li>
+  <li><strong>Feature Engineering:</strong> Create additional features based on domain knowledge.</li>
+  <li><strong>Model Deployment:</strong> Build a web app for real-time stroke prediction (using Streamlit or Flask).</li>
+  <li><strong>Integration with Medical Data:</strong> Combine with other datasets like electronic health records for deeper insights.</li>
+</ul>
+
+<h2 id="conclusion">📋 Conclusion</h2>
+<p>
+This project provides crucial insights into the factors leading to stroke events, showing that variables like age, hypertension, heart disease, and average glucose level play critical roles. The machine learning models — including Logistic Regression, Decision Trees, Random Forest, and K-Nearest Neighbors — demonstrated good predictive capabilities, with ensemble methods offering improved robustness.
+</p>
 
 <br>
 
